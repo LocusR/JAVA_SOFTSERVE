@@ -25,6 +25,11 @@ public class TASK1 {
             System.out.println(TASK3.century(701));
             System.out.println(TASK3.century(2012));
             System.out.println(TASK3.century(89));
+            Product qwe = new Product();
+            Product qwe1 = new Product();
+            Product qwe2 = new Product();
+            Product qwe3 = new Product();
+            System.out.println(Product.count());
 
         }
 
