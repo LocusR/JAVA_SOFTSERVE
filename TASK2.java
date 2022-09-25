@@ -19,13 +19,4 @@ public class TASK2 {
 
         }
 
-        public static void main(String[] args) {
-            System.out.println(isLeapYear(1952));
-            System.out.println(isLeapYear(1974));
-            System.out.println(isLeapYear(2020));
-            System.out.println(isLeapYear(2000));
-            System.out.println(isLeapYear(1900));
-
-        }
-
 }
